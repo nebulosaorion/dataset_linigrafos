@@ -1,0 +1,152 @@
+{
+  "data": "2026-08-11",
+  "local": "Arambaré",
+  "sensor_id": "sensor_3",
+  "total_registros": 24,
+  "dados": [
+    {
+      "data_hora": "2026-08-11T00:00:00.000Z",
+      "valor": 129.2,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T03:15:06.612Z"
+    },
+    {
+      "data_hora": "2026-08-11T00:30:00.000Z",
+      "valor": 129.7,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T03:45:06.518Z"
+    },
+    {
+      "data_hora": "2026-08-11T01:00:00.000Z",
+      "valor": 126.6,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T04:15:06.507Z"
+    },
+    {
+      "data_hora": "2026-08-11T01:30:00.000Z",
+      "valor": 125.3,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T04:45:06.288Z"
+    },
+    {
+      "data_hora": "2026-08-11T02:00:00.000Z",
+      "valor": 124.8,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T05:15:06.285Z"
+    },
+    {
+      "data_hora": "2026-08-11T02:30:00.000Z",
+      "valor": 126,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T05:45:06.377Z"
+    },
+    {
+      "data_hora": "2026-08-11T03:00:00.000Z",
+      "valor": 128,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T06:15:06.190Z"
+    },
+    {
+      "data_hora": "2026-08-11T03:30:00.000Z",
+      "valor": 126.8,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T06:45:06.256Z"
+    },
+    {
+      "data_hora": "2026-08-11T04:00:00.000Z",
+      "valor": 125.7,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T07:15:06.384Z"
+    },
+    {
+      "data_hora": "2026-08-11T04:30:00.000Z",
+      "valor": 127.1,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T07:45:06.375Z"
+    },
+    {
+      "data_hora": "2026-08-11T05:00:00.000Z",
+      "valor": 124.3,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T08:15:06.916Z"
+    },
+    {
+      "data_hora": "2026-08-11T05:30:00.000Z",
+      "valor": 127.8,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T08:45:07.520Z"
+    },
+    {
+      "data_hora": "2026-08-11T06:00:00.000Z",
+      "valor": 129.5,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T09:15:06.565Z"
+    },
+    {
+      "data_hora": "2026-08-11T06:30:00.000Z",
+      "valor": 125.8,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T09:45:06.444Z"
+    },
+    {
+      "data_hora": "2026-08-11T07:00:00.000Z",
+      "valor": 127.7,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T10:15:06.344Z"
+    },
+    {
+      "data_hora": "2026-08-11T07:30:00.000Z",
+      "valor": 128.2,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T10:45:06.527Z"
+    },
+    {
+      "data_hora": "2026-08-11T08:00:00.000Z",
+      "valor": 127,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T11:15:06.873Z"
+    },
+    {
+      "data_hora": "2026-08-11T08:30:00.000Z",
+      "valor": 127.7,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T11:45:07.009Z"
+    },
+    {
+      "data_hora": "2026-08-11T09:00:00.000Z",
+      "valor": 127.3,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T12:15:06.408Z"
+    },
+    {
+      "data_hora": "2026-08-11T09:30:00.000Z",
+      "valor": 125.6,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T12:45:06.352Z"
+    },
+    {
+      "data_hora": "2026-08-11T10:00:00.000Z",
+      "valor": 128.6,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T13:15:06.622Z"
+    },
+    {
+      "data_hora": "2026-08-11T10:30:00.000Z",
+      "valor": 126,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T13:45:06.249Z"
+    },
+    {
+      "data_hora": "2026-08-11T11:00:00.000Z",
+      "valor": 128.7,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T14:15:08.131Z"
+    },
+    {
+      "data_hora": "2026-08-11T11:30:00.000Z",
+      "valor": 129,
+      "sensor_id": "sensor_3",
+      "criado_em": "2026-08-11T14:45:06.993Z"
+    }
+  ]
+}

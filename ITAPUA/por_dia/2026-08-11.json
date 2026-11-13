@@ -1,0 +1,152 @@
+{
+  "data": "2026-08-11",
+  "local": "Itapuã",
+  "sensor_id": "sensor_5",
+  "total_registros": 24,
+  "dados": [
+    {
+      "data_hora": "2026-08-11T00:00:00.000Z",
+      "valor": 133.7,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T03:15:08.326Z"
+    },
+    {
+      "data_hora": "2026-08-11T00:30:00.000Z",
+      "valor": 134.2,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T03:45:08.179Z"
+    },
+    {
+      "data_hora": "2026-08-11T01:00:00.000Z",
+      "valor": 132.9,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T04:15:08.108Z"
+    },
+    {
+      "data_hora": "2026-08-11T01:30:00.000Z",
+      "valor": 133.6,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T04:45:07.877Z"
+    },
+    {
+      "data_hora": "2026-08-11T02:00:00.000Z",
+      "valor": 134.2,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T05:15:07.953Z"
+    },
+    {
+      "data_hora": "2026-08-11T02:30:00.000Z",
+      "valor": 134.3,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T05:45:08.207Z"
+    },
+    {
+      "data_hora": "2026-08-11T03:00:00.000Z",
+      "valor": 134.1,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T06:15:07.779Z"
+    },
+    {
+      "data_hora": "2026-08-11T03:30:00.000Z",
+      "valor": 134.3,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T06:45:07.915Z"
+    },
+    {
+      "data_hora": "2026-08-11T04:00:00.000Z",
+      "valor": 133.6,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T07:15:08.055Z"
+    },
+    {
+      "data_hora": "2026-08-11T04:30:00.000Z",
+      "valor": 133.5,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T07:45:08.007Z"
+    },
+    {
+      "data_hora": "2026-08-11T05:00:00.000Z",
+      "valor": 133.3,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T08:15:08.522Z"
+    },
+    {
+      "data_hora": "2026-08-11T05:30:00.000Z",
+      "valor": 132.6,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T08:45:09.246Z"
+    },
+    {
+      "data_hora": "2026-08-11T06:00:00.000Z",
+      "valor": 132.9,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T09:15:08.192Z"
+    },
+    {
+      "data_hora": "2026-08-11T06:30:00.000Z",
+      "valor": 132.3,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T09:45:08.117Z"
+    },
+    {
+      "data_hora": "2026-08-11T07:00:00.000Z",
+      "valor": 132.2,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T10:15:08.060Z"
+    },
+    {
+      "data_hora": "2026-08-11T07:30:00.000Z",
+      "valor": 131.8,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T10:45:08.218Z"
+    },
+    {
+      "data_hora": "2026-08-11T08:00:00.000Z",
+      "valor": 131.5,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T11:15:08.521Z"
+    },
+    {
+      "data_hora": "2026-08-11T08:30:00.000Z",
+      "valor": 132.4,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T11:45:08.699Z"
+    },
+    {
+      "data_hora": "2026-08-11T09:00:00.000Z",
+      "valor": 132.7,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T12:15:07.986Z"
+    },
+    {
+      "data_hora": "2026-08-11T09:30:00.000Z",
+      "valor": 133.1,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T12:45:08.000Z"
+    },
+    {
+      "data_hora": "2026-08-11T10:00:00.000Z",
+      "valor": 133.8,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T13:15:08.299Z"
+    },
+    {
+      "data_hora": "2026-08-11T10:30:00.000Z",
+      "valor": 133.7,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T13:45:07.835Z"
+    },
+    {
+      "data_hora": "2026-08-11T11:00:00.000Z",
+      "valor": 134.4,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T14:15:09.825Z"
+    },
+    {
+      "data_hora": "2026-08-11T11:30:00.000Z",
+      "valor": 133.5,
+      "sensor_id": "sensor_5",
+      "criado_em": "2026-08-11T14:45:08.617Z"
+    }
+  ]
+}

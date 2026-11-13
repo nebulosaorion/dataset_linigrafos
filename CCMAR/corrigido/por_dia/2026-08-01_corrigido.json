@@ -1,0 +1,194 @@
+{
+  "data": "2026-08-01",
+  "sensor_id": "sensor_1",
+  "total_registros": 17,
+  "dados": [
+    {
+      "data_hora": "2026-08-01T14:30:00.000Z",
+      "valor": 41.3,
+      "sensor_id": "sensor_1",
+      "criado_em": "2026-08-01T17:45:02.346Z",
+      "valor_cm_bruto": 41.3,
+      "ccmar_mm": 413.0,
+      "radar_m": 0.413,
+      "regua_m": 2.697,
+      "n_imbituba_m": 2.037
+    },
+    {
+      "data_hora": "2026-08-01T15:00:00.000Z",
+      "valor": 42.5,
+      "sensor_id": "sensor_1",
+      "criado_em": "2026-08-01T18:15:02.369Z",
+      "valor_cm_bruto": 42.5,
+      "ccmar_mm": 425.0,
+      "radar_m": 0.425,
+      "regua_m": 2.685,
+      "n_imbituba_m": 2.025
+    },
+    {
+      "data_hora": "2026-08-01T15:30:00.000Z",
+      "valor": 43.5,
+      "sensor_id": "sensor_1",
+      "criado_em": "2026-08-01T18:45:02.382Z",
+      "valor_cm_bruto": 43.5,
+      "ccmar_mm": 435.0,
+      "radar_m": 0.435,
+      "regua_m": 2.675,
+      "n_imbituba_m": 2.015
+    },
+    {
+      "data_hora": "2026-08-01T16:30:00.000Z",
+      "valor": 47.6,
+      "sensor_id": "sensor_1",
+      "criado_em": "2026-08-01T19:45:02.388Z",
+      "valor_cm_bruto": 47.6,
+      "ccmar_mm": 476.0,
+      "radar_m": 0.476,
+      "regua_m": 2.634,
+      "n_imbituba_m": 1.974
+    },
+    {
+      "data_hora": "2026-08-01T17:00:00.000Z",
+      "valor": 49.9,
+      "sensor_id": "sensor_1",
+      "criado_em": "2026-08-01T20:15:02.604Z",
+      "valor_cm_bruto": 49.9,
+      "ccmar_mm": 499.0,
+      "radar_m": 0.499,
+      "regua_m": 2.611,
+      "n_imbituba_m": 1.951
+    },
+    {
+      "data_hora": "2026-08-01T17:30:00.000Z",
+      "valor": 49.9,
+      "sensor_id": "sensor_1",
+      "criado_em": "2026-08-01T20:45:02.465Z",
+      "valor_cm_bruto": 49.9,
+      "ccmar_mm": 499.0,
+      "radar_m": 0.499,
+      "regua_m": 2.611,
+      "n_imbituba_m": 1.951
+    },
+    {
+      "data_hora": "2026-08-01T18:00:00.000Z",
+      "valor": 47.1,
+      "sensor_id": "sensor_1",
+      "criado_em": "2026-08-01T21:15:02.347Z",
+      "valor_cm_bruto": 47.1,
+      "ccmar_mm": 471.0,
+      "radar_m": 0.471,
+      "regua_m": 2.639,
+      "n_imbituba_m": 1.979
+    },
+    {
+      "data_hora": "2026-08-01T19:00:00.000Z",
+      "valor": 43,
+      "sensor_id": "sensor_1",
+      "criado_em": "2026-08-01T22:15:02.377Z",
+      "valor_cm_bruto": 43.0,
+      "ccmar_mm": 430.0,
+      "radar_m": 0.43,
+      "regua_m": 2.68,
+      "n_imbituba_m": 2.02
+    },
+    {
+      "data_hora": "2026-08-01T19:30:00.000Z",
+      "valor": 45.3,
+      "sensor_id": "sensor_1",
+      "criado_em": "2026-08-01T22:45:02.325Z",
+      "valor_cm_bruto": 45.3,
+      "ccmar_mm": 453.0,
+      "radar_m": 0.453,
+      "regua_m": 2.657,
+      "n_imbituba_m": 1.997
+    },
+    {
+      "data_hora": "2026-08-01T20:00:00.000Z",
+      "valor": 47.2,
+      "sensor_id": "sensor_1",
+      "criado_em": "2026-08-01T23:15:02.406Z",
+      "valor_cm_bruto": 47.2,
+      "ccmar_mm": 472.0,
+      "radar_m": 0.472,
+      "regua_m": 2.638,
+      "n_imbituba_m": 1.978
+    },
+    {
+      "data_hora": "2026-08-01T20:30:00.000Z",
+      "valor": 48.4,
+      "sensor_id": "sensor_1",
+      "criado_em": "2026-08-01T23:45:02.428Z",
+      "valor_cm_bruto": 48.4,
+      "ccmar_mm": 484.0,
+      "radar_m": 0.484,
+      "regua_m": 2.626,
+      "n_imbituba_m": 1.966
+    },
+    {
+      "data_hora": "2026-08-01T21:00:00.000Z",
+      "valor": 55.8,
+      "sensor_id": "sensor_1",
+      "criado_em": "2026-08-02T00:15:02.485Z",
+      "valor_cm_bruto": 55.8,
+      "ccmar_mm": 558.0,
+      "radar_m": 0.558,
+      "regua_m": 2.552,
+      "n_imbituba_m": 1.892
+    },
+    {
+      "data_hora": "2026-08-01T21:30:00.000Z",
+      "valor": 55.8,
+      "sensor_id": "sensor_1",
+      "criado_em": "2026-08-02T00:45:02.468Z",
+      "valor_cm_bruto": 55.8,
+      "ccmar_mm": 558.0,
+      "radar_m": 0.558,
+      "regua_m": 2.552,
+      "n_imbituba_m": 1.892
+    },
+    {
+      "data_hora": "2026-08-01T22:00:00.000Z",
+      "valor": 63.7,
+      "sensor_id": "sensor_1",
+      "criado_em": "2026-08-02T01:15:02.405Z",
+      "valor_cm_bruto": 63.7,
+      "ccmar_mm": 637.0,
+      "radar_m": 0.637,
+      "regua_m": 2.473,
+      "n_imbituba_m": 1.813
+    },
+    {
+      "data_hora": "2026-08-01T22:30:00.000Z",
+      "valor": 67.8,
+      "sensor_id": "sensor_1",
+      "criado_em": "2026-08-02T01:45:02.361Z",
+      "valor_cm_bruto": 67.8,
+      "ccmar_mm": 678.0,
+      "radar_m": 0.678,
+      "regua_m": 2.432,
+      "n_imbituba_m": 1.772
+    },
+    {
+      "data_hora": "2026-08-01T23:00:00.000Z",
+      "valor": 65.4,
+      "sensor_id": "sensor_1",
+      "criado_em": "2026-08-02T02:15:02.486Z",
+      "valor_cm_bruto": 65.4,
+      "ccmar_mm": 654.0,
+      "radar_m": 0.654,
+      "regua_m": 2.456,
+      "n_imbituba_m": 1.796
+    },
+    {
+      "data_hora": "2026-08-01T23:30:00.000Z",
+      "valor": 63.6,
+      "sensor_id": "sensor_1",
+      "criado_em": "2026-08-02T02:45:02.427Z",
+      "valor_cm_bruto": 63.6,
+      "ccmar_mm": 636.0,
+      "radar_m": 0.636,
+      "regua_m": 2.474,
+      "n_imbituba_m": 1.814
+    }
+  ]
+}

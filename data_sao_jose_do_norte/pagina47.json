@@ -1,0 +1,31 @@
+{
+  "pagina": 47,
+  "total_registros": 464,
+  "total_paginas": 47,
+  "dados": [
+    {
+      "data_hora": "2026-08-01T16:30:00.000Z",
+      "valor": 53,
+      "sensor_id": "sensor_4",
+      "criado_em": "2026-08-01T19:45:06.939Z"
+    },
+    {
+      "data_hora": "2026-08-01T16:00:00.000Z",
+      "valor": 53.4,
+      "sensor_id": "sensor_4",
+      "criado_em": "2026-08-01T19:15:06.866Z"
+    },
+    {
+      "data_hora": "2026-08-01T15:30:00.000Z",
+      "valor": 46.2,
+      "sensor_id": "sensor_4",
+      "criado_em": "2026-08-01T18:45:07.228Z"
+    },
+    {
+      "data_hora": "2026-08-01T15:00:00.000Z",
+      "valor": 46.6,
+      "sensor_id": "sensor_4",
+      "criado_em": "2026-08-01T18:15:06.872Z"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "data": "2026-08-11",
+  "local": "Tavares",
+  "sensor_id": "sensor_6",
+  "total_registros": 26,
+  "dados": [
+    {
+      "data_hora": "2026-08-11T00:00:00.000Z",
+      "valor": 339,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T03:15:09.148Z"
+    },
+    {
+      "data_hora": "2026-08-11T00:30:00.000Z",
+      "valor": 335.8,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T03:45:08.999Z"
+    },
+    {
+      "data_hora": "2026-08-11T01:00:00.000Z",
+      "valor": 339.4,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T04:15:08.920Z"
+    },
+    {
+      "data_hora": "2026-08-11T01:30:00.000Z",
+      "valor": 339.3,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T04:45:08.682Z"
+    },
+    {
+      "data_hora": "2026-08-11T02:00:00.000Z",
+      "valor": 339.6,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T05:15:08.780Z"
+    },
+    {
+      "data_hora": "2026-08-11T02:30:00.000Z",
+      "valor": 339.3,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T05:45:09.004Z"
+    },
+    {
+      "data_hora": "2026-08-11T03:00:00.000Z",
+      "valor": 335.7,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T06:15:08.572Z"
+    },
+    {
+      "data_hora": "2026-08-11T03:30:00.000Z",
+      "valor": 337.1,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T06:45:08.747Z"
+    },
+    {
+      "data_hora": "2026-08-11T04:00:00.000Z",
+      "valor": 338.4,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T07:15:08.852Z"
+    },
+    {
+      "data_hora": "2026-08-11T04:30:00.000Z",
+      "valor": 337,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T07:45:08.828Z"
+    },
+    {
+      "data_hora": "2026-08-11T05:00:00.000Z",
+      "valor": 336.7,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T08:15:09.341Z"
+    },
+    {
+      "data_hora": "2026-08-11T05:30:00.000Z",
+      "valor": 337.9,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T08:45:10.107Z"
+    },
+    {
+      "data_hora": "2026-08-11T06:00:00.000Z",
+      "valor": 337.2,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T09:15:08.993Z"
+    },
+    {
+      "data_hora": "2026-08-11T06:30:00.000Z",
+      "valor": 335.1,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T09:45:08.936Z"
+    },
+    {
+      "data_hora": "2026-08-11T07:00:00.000Z",
+      "valor": 337.7,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T10:15:08.924Z"
+    },
+    {
+      "data_hora": "2026-08-11T07:30:00.000Z",
+      "valor": 336,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T10:45:09.018Z"
+    },
+    {
+      "data_hora": "2026-08-11T08:00:00.000Z",
+      "valor": 335.9,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T11:15:09.355Z"
+    },
+    {
+      "data_hora": "2026-08-11T08:30:00.000Z",
+      "valor": 337.1,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T11:45:09.501Z"
+    },
+    {
+      "data_hora": "2026-08-11T09:00:00.000Z",
+      "valor": 335.7,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T12:15:08.787Z"
+    },
+    {
+      "data_hora": "2026-08-11T09:30:00.000Z",
+      "valor": 335.6,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T12:45:08.839Z"
+    },
+    {
+      "data_hora": "2026-08-11T10:00:00.000Z",
+      "valor": 336.1,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T13:15:09.112Z"
+    },
+    {
+      "data_hora": "2026-08-11T10:30:00.000Z",
+      "valor": 335.3,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T13:45:08.724Z"
+    },
+    {
+      "data_hora": "2026-08-11T11:00:00.000Z",
+      "valor": 338.4,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T14:15:10.642Z"
+    },
+    {
+      "data_hora": "2026-08-11T11:30:00.000Z",
+      "valor": 337,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T14:45:09.447Z"
+    },
+    {
+      "data_hora": "2026-08-11T12:00:00.000Z",
+      "valor": 334,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T15:15:11.832Z"
+    },
+    {
+      "data_hora": "2026-08-11T12:30:00.000Z",
+      "valor": 334,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-11T15:45:09.615Z"
+    }
+  ]
+}

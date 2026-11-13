@@ -1,0 +1,116 @@
+{
+  "data": "2026-08-01",
+  "local": "São Lourenço do Sul",
+  "sensor_id": "sensor_2",
+  "total_registros": 18,
+  "dados": [
+    {
+      "data_hora": "2026-08-01T15:00:00.000Z",
+      "valor": 115.6,
+      "sensor_id": "sensor_2",
+      "criado_em": "2026-08-01T18:15:05.285Z"
+    },
+    {
+      "data_hora": "2026-08-01T15:30:00.000Z",
+      "valor": 116.6,
+      "sensor_id": "sensor_2",
+      "criado_em": "2026-08-01T18:45:05.431Z"
+    },
+    {
+      "data_hora": "2026-08-01T16:00:00.000Z",
+      "valor": 113.5,
+      "sensor_id": "sensor_2",
+      "criado_em": "2026-08-01T19:15:05.281Z"
+    },
+    {
+      "data_hora": "2026-08-01T16:30:00.000Z",
+      "valor": 113.4,
+      "sensor_id": "sensor_2",
+      "criado_em": "2026-08-01T19:45:05.379Z"
+    },
+    {
+      "data_hora": "2026-08-01T17:00:00.000Z",
+      "valor": 106.8,
+      "sensor_id": "sensor_2",
+      "criado_em": "2026-08-01T20:15:05.452Z"
+    },
+    {
+      "data_hora": "2026-08-01T17:30:00.000Z",
+      "valor": 105.9,
+      "sensor_id": "sensor_2",
+      "criado_em": "2026-08-01T20:45:05.339Z"
+    },
+    {
+      "data_hora": "2026-08-01T18:00:00.000Z",
+      "valor": 107.2,
+      "sensor_id": "sensor_2",
+      "criado_em": "2026-08-01T21:15:05.294Z"
+    },
+    {
+      "data_hora": "2026-08-01T18:30:00.000Z",
+      "valor": 106.4,
+      "sensor_id": "sensor_2",
+      "criado_em": "2026-08-01T21:45:03.346Z"
+    },
+    {
+      "data_hora": "2026-08-01T19:00:00.000Z",
+      "valor": 101.5,
+      "sensor_id": "sensor_2",
+      "criado_em": "2026-08-01T22:15:05.224Z"
+    },
+    {
+      "data_hora": "2026-08-01T19:30:00.000Z",
+      "valor": 98,
+      "sensor_id": "sensor_2",
+      "criado_em": "2026-08-01T22:45:05.208Z"
+    },
+    {
+      "data_hora": "2026-08-01T20:00:00.000Z",
+      "valor": 89.4,
+      "sensor_id": "sensor_2",
+      "criado_em": "2026-08-01T23:15:05.364Z"
+    },
+    {
+      "data_hora": "2026-08-01T20:30:00.000Z",
+      "valor": 88.7,
+      "sensor_id": "sensor_2",
+      "criado_em": "2026-08-01T23:45:05.341Z"
+    },
+    {
+      "data_hora": "2026-08-01T21:00:00.000Z",
+      "valor": 87.8,
+      "sensor_id": "sensor_2",
+      "criado_em": "2026-08-02T00:15:05.341Z"
+    },
+    {
+      "data_hora": "2026-08-01T21:30:00.000Z",
+      "valor": 89.8,
+      "sensor_id": "sensor_2",
+      "criado_em": "2026-08-02T00:45:05.491Z"
+    },
+    {
+      "data_hora": "2026-08-01T22:00:00.000Z",
+      "valor": 92.3,
+      "sensor_id": "sensor_2",
+      "criado_em": "2026-08-02T01:15:05.607Z"
+    },
+    {
+      "data_hora": "2026-08-01T22:30:00.000Z",
+      "valor": 93.2,
+      "sensor_id": "sensor_2",
+      "criado_em": "2026-08-02T01:45:05.365Z"
+    },
+    {
+      "data_hora": "2026-08-01T23:00:00.000Z",
+      "valor": 95,
+      "sensor_id": "sensor_2",
+      "criado_em": "2026-08-02T02:15:05.373Z"
+    },
+    {
+      "data_hora": "2026-08-01T23:30:00.000Z",
+      "valor": 95.2,
+      "sensor_id": "sensor_2",
+      "criado_em": "2026-08-02T02:45:05.362Z"
+    }
+  ]
+}

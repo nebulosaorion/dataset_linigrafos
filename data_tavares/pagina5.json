@@ -1,0 +1,67 @@
+{
+  "pagina": 5,
+  "total_registros": 474,
+  "total_paginas": 48,
+  "dados": [
+    {
+      "data_hora": "2026-08-10T16:30:00.000Z",
+      "valor": 329.9,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-10T19:45:09.380Z"
+    },
+    {
+      "data_hora": "2026-08-10T16:00:00.000Z",
+      "valor": 326,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-10T19:15:09.969Z"
+    },
+    {
+      "data_hora": "2026-08-10T15:30:00.000Z",
+      "valor": 326.4,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-10T18:45:09.211Z"
+    },
+    {
+      "data_hora": "2026-08-10T15:00:00.000Z",
+      "valor": 330,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-10T18:15:08.810Z"
+    },
+    {
+      "data_hora": "2026-08-10T14:30:00.000Z",
+      "valor": 331.6,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-10T17:45:08.746Z"
+    },
+    {
+      "data_hora": "2026-08-10T14:00:00.000Z",
+      "valor": 330.9,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-10T17:15:09.369Z"
+    },
+    {
+      "data_hora": "2026-08-10T13:30:00.000Z",
+      "valor": 329.7,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-10T16:45:08.954Z"
+    },
+    {
+      "data_hora": "2026-08-10T13:00:00.000Z",
+      "valor": 327.9,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-10T16:15:09.002Z"
+    },
+    {
+      "data_hora": "2026-08-10T12:30:00.000Z",
+      "valor": 325.5,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-10T15:45:09.814Z"
+    },
+    {
+      "data_hora": "2026-08-10T12:00:00.000Z",
+      "valor": 335.7,
+      "sensor_id": "sensor_6",
+      "criado_em": "2026-08-10T15:15:09.194Z"
+    }
+  ]
+}

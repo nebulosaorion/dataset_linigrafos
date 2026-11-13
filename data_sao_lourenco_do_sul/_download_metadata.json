@@ -1,0 +1,6 @@
+{
+  "sensor_id": "sensor_2",
+  "base_url": "https://api-medidas-porto-7bni.onrender.com/dados/{sensor_id}/ultimos-dias?page={page}",
+  "total_paginas": 47,
+  "output_dir": "/home/mi/Documentos/DADOS_LINIGRAFO/data_sao_lourenco_do_sul"
+}
